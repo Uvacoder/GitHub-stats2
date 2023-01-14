@@ -1,4 +1,5 @@
 ## Octotastic
+
 All of your GitHub Stats in one place. Features:
 - View your own stats or any other user's stats.
 - View advanced stats using graphs and charts.
